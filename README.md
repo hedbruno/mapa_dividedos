@@ -8,4 +8,3 @@ Para visualizar o dashboard será necessário instalar o aplicativo Power BI
 
 https://powerbi.microsoft.com/pt-br/desktop/
 
-###  Como usar
